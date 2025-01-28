@@ -5,6 +5,7 @@ JSON file, preprocesses it, applies K-Means clustering,
  visualizes the results. It also saves the clustered data 
  to a CSV file.
 
+Clustering enables better customer understanding and segmentation for strategic planning.
 
 Output
 Console:
