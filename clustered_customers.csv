@@ -1,0 +1,201 @@
+CustomerID,Name,Location,Gender,Age,Average Purchase ($),Frequency (for visits),Coffee,Cold drinks,Jaws chip,Pastries,Juices,Sandwiches,cake,Cluster
+1,Stephanie Alvarez,Sheilaport,Male,19,15,39,1,0,0,0,0,0,0,0
+2,Casey Diaz,Dixonport,Male,21,15,81,0,1,0,1,0,0,0,2
+3,John Barrett,Gregoryburgh,Female,20,16,6,1,0,0,0,0,0,0,0
+4,Sara Beck,North David,Female,23,16,77,1,0,0,0,0,0,0,0
+5,Tracey Kim,Williamsonshire,Female,31,17,40,1,0,0,0,0,1,0,1
+6,Kelly Ho,Shepherdside,Female,22,17,76,0,1,0,0,0,0,0,2
+7,Karen Brady,Brennanland,Female,35,18,6,1,0,0,0,0,0,0,0
+8,Monica Burnett,Chapmanview,Female,23,18,94,1,1,0,0,0,0,0,0
+9,Erica Woods,Smithshire,Male,64,19,3,0,1,0,0,0,0,0,2
+10,James Turner,Paulaborough,Female,30,19,72,1,0,0,0,0,0,0,0
+11,Nicholas Savage,East Christopherfurt,Male,67,19,14,0,1,0,0,0,0,0,2
+12,Rhonda Chavez,Banksport,Female,35,19,99,1,0,0,0,0,0,0,0
+13,Nicole Mcdaniel,Parrishside,Female,58,20,15,1,0,0,0,0,1,0,1
+14,Samuel Dickerson,Rileyburgh,Female,24,20,77,1,0,0,0,0,0,0,0
+15,Zachary Sullivan,Joeltown,Male,37,20,13,1,0,0,0,0,0,0,0
+16,Mrs. Kathleen Oneal,Scottmouth,Male,22,20,79,1,0,0,0,0,0,0,0
+17,Matthew Kennedy,New Patricia,Female,35,21,35,1,0,0,0,0,0,0,0
+18,Heather Harris,East Barry,Male,20,21,66,1,0,0,0,0,0,0,0
+19,Andrew Watson,New Vincent,Male,52,23,29,1,0,0,0,0,0,0,0
+20,Paul Peterson,Thomasview,Female,35,23,98,0,1,0,0,0,0,0,2
+21,Cory Brown,East Charles,Male,35,24,35,1,0,0,0,0,0,0,0
+22,Molly Cruz,Port Carla,Male,25,24,73,1,0,0,0,0,0,0,0
+23,Gerald Johnston,Bensonburgh,Female,46,25,5,1,0,0,0,0,0,0,0
+24,Elijah Barnett,East Jamesstad,Male,31,25,73,0,1,0,1,0,1,0,1
+25,Stephen Lozano,North Benjamin,Female,54,28,14,1,0,0,1,1,1,0,1
+26,Christina Hunter,Fordland,Male,29,28,82,1,1,0,0,0,0,0,0
+27,Paul Taylor,New Christopher,Female,45,28,32,1,0,0,0,0,0,0,0
+28,Samantha Wells,South Joyce,Male,35,28,61,1,0,0,0,0,0,0,0
+29,Dawn Nelson,South Kaylaberg,Female,40,29,31,1,0,0,0,0,0,0,0
+30,James White,North Ryanton,Female,23,29,87,1,0,0,0,0,0,0,0
+31,Angela Williamson,Jordanmouth,Male,60,30,4,1,0,0,1,0,1,0,1
+32,Veronica Moses,Laurenport,Female,21,30,73,1,0,0,1,0,0,0,0
+33,Debra Hamilton,Lake Laurie,Male,53,33,4,1,0,0,0,0,0,0,0
+34,Stacie Oliver DVM,Raymondview,Male,18,33,92,1,0,0,0,0,0,0,0
+35,Jason Moore,South Anthonytown,Female,49,33,14,1,0,0,0,0,0,0,0
+36,Gary Joyce,Timothybury,Female,21,33,81,1,0,0,0,0,0,0,0
+37,Ashley Page,Mcdonaldchester,Female,42,34,17,0,1,0,0,0,0,0,2
+38,John Bush,Melaniemouth,Female,30,34,73,1,0,0,0,0,0,0,0
+39,David Williams,Brettbury,Female,36,37,26,0,1,0,1,1,0,0,2
+40,Kerry Santos,Russellmouth,Female,20,37,75,1,0,0,0,0,0,0,0
+41,Shawn Williams,South Dariusburgh,Female,65,38,35,1,0,0,0,0,0,0,0
+42,Catherine White,Andersonfurt,Male,24,38,92,1,0,0,0,0,0,0,0
+43,Michael May,Bradton,Male,48,39,36,1,0,0,0,0,0,0,0
+44,Calvin Allison,Robinsonton,Female,31,39,61,1,0,0,1,0,0,0,0
+45,Bryan Palmer,Seanberg,Female,49,39,28,1,0,0,0,0,0,0,0
+46,Joseph Carter,North Johnbury,Female,24,39,65,1,0,0,1,0,0,0,0
+47,Matthew Yang,Bradyfurt,Female,50,40,55,0,1,0,0,0,0,0,2
+48,Veronica Young,West Mark,Female,27,40,47,1,0,0,0,0,0,0,0
+49,Angela Ford,Kellyshire,Female,29,40,42,0,1,0,0,0,0,0,2
+50,Gary Martin,East Jennifer,Female,31,40,42,0,1,0,0,0,0,0,2
+51,Bradley James,Jerryview,Female,49,42,52,1,0,0,0,0,0,0,0
+52,Susan Quinn,Bobbyfort,Male,33,42,60,0,1,0,0,0,0,0,2
+53,James Williams,South Julie,Female,31,43,54,0,1,0,1,1,0,0,2
+54,Sarah Schultz,North Denisefort,Male,59,43,60,1,0,0,0,0,0,0,0
+55,Megan Crawford,North Bryan,Female,50,43,45,1,0,0,0,0,0,0,0
+56,Austin Williams,Port Christychester,Male,47,43,41,1,0,0,0,0,0,0,0
+57,Caitlyn Marks,Santiagoburgh,Female,51,44,50,1,1,0,0,0,0,0,0
+58,Michelle Lopez,Alexfort,Male,69,44,46,1,0,0,0,0,0,0,0
+59,Angel Bowen,West Meghan,Female,27,46,51,1,0,0,0,0,0,0,0
+60,Cynthia Barrett,Michaelchester,Male,53,46,46,0,1,0,0,0,0,0,2
+61,Gina Hunter,West Dennis,Male,70,46,56,1,0,0,0,0,0,0,0
+62,Jason Owen,East Jeffrey,Male,19,46,55,1,1,0,0,0,0,0,0
+63,Jennifer Key,Lake Melanie,Female,67,47,52,1,0,0,0,0,0,0,0
+64,Dennis Galvan,New Brianville,Female,54,47,59,1,0,0,0,0,0,0,0
+65,Cynthia Anderson,Wrighthaven,Male,63,48,51,1,0,0,0,0,0,0,0
+66,Laurie Haley,East Jennifer,Male,18,48,59,1,0,0,0,0,0,0,0
+67,Charles Roth,Port Mollymouth,Female,43,48,50,1,1,0,1,0,1,0,1
+68,Tammy Hughes,North Eric,Female,68,48,48,1,0,0,0,0,0,0,0
+69,Wendy Reed,West Hunter,Male,19,48,59,1,0,0,0,0,0,0,0
+70,Mike Hicks,Richardsonbury,Female,32,48,47,0,1,0,0,0,0,0,2
+71,Charles Webb,East Amanda,Male,70,49,55,1,0,0,0,0,0,0,0
+72,Rachel Barrett,Vangbury,Female,47,49,42,1,0,0,0,0,1,0,1
+73,Karen Jimenez,South Lynnstad,Female,60,50,49,1,0,0,0,0,0,0,0
+74,Erin Maxwell,West Joseph,Female,60,50,56,0,1,0,0,0,0,0,2
+75,Lori Mercer,Port Rebecca,Male,59,54,47,1,1,0,0,0,0,0,0
+76,Dylan Stephens,Robintown,Male,26,54,54,1,0,0,0,0,0,0,0
+77,Theodore Lopez,Joshuaborough,Female,45,54,53,1,0,0,0,0,0,0,0
+78,Antonio Norris,Lauraville,Male,40,54,48,1,0,0,0,0,0,0,0
+79,Julie Pearson,New William,Female,23,54,52,1,0,0,0,0,0,0,0
+80,Steven Phillips,Rachelbury,Female,49,54,42,0,1,0,0,0,0,0,2
+81,Lisa Phillips,Garrettfurt,Male,57,54,51,1,0,0,0,0,0,0,0
+82,Susan Curtis,East Adammouth,Male,38,54,55,1,0,0,0,0,0,0,0
+83,Erica Bryant,Halefort,Male,67,54,41,0,1,0,0,0,0,0,2
+84,Ashley Gordon,North Amyland,Female,46,54,44,1,0,0,0,0,0,0,0
+85,Raymond Reyes,Coreyville,Female,21,54,57,1,0,0,0,0,0,0,0
+86,Adam Welch,New Justinville,Male,48,54,46,0,0,1,0,0,0,0,3
+87,Kiara Smith,Blakebury,Female,55,57,58,1,0,0,0,0,0,0,0
+88,Jason Hood,North Robinmouth,Female,22,57,55,1,0,0,0,0,0,0,0
+89,Becky Williams,Kyleshire,Female,34,58,60,0,0,0,0,0,0,1,2
+90,John Turner,Perezbury,Female,50,58,46,0,1,0,0,0,0,0,2
+91,Samuel Hawkins,Robertfurt,Female,68,59,55,1,0,0,0,0,0,0,0
+92,Kimberly Clarke,Jessicaport,Male,18,59,41,1,0,0,1,0,0,0,0
+93,Douglas Frye,Davidton,Male,48,60,49,1,0,0,0,0,0,0,0
+94,Kimberly Ramirez,Ericksonbury,Female,40,60,40,1,0,0,0,0,0,0,0
+95,Julie Rhodes,Davidfort,Female,32,60,42,1,0,0,0,0,0,0,0
+96,Nicole Morgan,Houstonmouth,Male,24,60,52,0,1,0,0,0,0,0,2
+97,Brandon Brown,Andrewton,Female,47,60,47,0,1,0,0,0,0,0,2
+98,Timothy Hudson,Johnhaven,Female,27,60,50,0,0,0,1,0,0,0,2
+99,Robert May,New Daniel,Male,48,61,42,1,0,0,0,0,0,0,0
+100,Sara Steele,New Frederickborough,Male,20,61,49,1,0,0,0,0,0,0,0
+101,Rebecca Lucero,West Joshuahaven,Female,23,62,41,0,1,0,0,0,0,0,2
+102,Caitlyn Ware,Davisside,Female,49,62,48,1,0,0,0,0,0,0,0
+103,Brian Wright,East Michael,Male,67,62,59,1,0,0,0,0,0,0,0
+104,Ryan Simmons,East Lisaburgh,Male,26,62,55,1,0,0,1,0,0,0,0
+105,Carrie Gallegos,New Andreastad,Male,49,62,56,0,0,0,1,0,0,0,2
+106,Harold Thompson,Mcclainshire,Female,21,62,42,0,1,0,0,0,0,0,2
+107,John Carroll,Pagehaven,Female,66,63,50,1,0,0,0,0,0,0,0
+108,Jack Munoz,South Ambermouth,Male,54,63,46,0,1,0,0,0,0,0,2
+109,Mark Smith,Kennethville,Male,68,63,43,1,0,0,0,0,0,0,0
+110,John Hill,Lake Caitlin,Male,66,63,48,1,0,0,1,0,0,0,0
+111,Kathy Wright,Jamesland,Male,65,63,52,0,1,0,0,0,0,0,2
+112,Spencer Gonzalez,Kimberg,Female,19,63,54,0,1,0,0,0,0,0,2
+113,Austin Carrillo,Angelaborough,Female,38,64,42,1,0,0,0,0,0,0,0
+114,Jerry Church,Baileystad,Male,19,64,46,0,1,0,0,0,0,0,2
+115,Kimberly Turner,South Wendy,Female,18,65,48,0,1,0,0,0,0,0,2
+116,Kendra Simpson,Martinland,Female,19,65,50,0,1,0,0,0,0,0,2
+117,Felicia Cruz,Port Jenniferborough,Female,63,65,43,0,1,0,0,0,0,0,2
+118,Ann Harmon,Chavezchester,Female,49,65,59,1,0,0,0,0,0,0,0
+119,Jeffrey Goodwin,Matthewstad,Female,51,67,43,1,1,0,1,1,0,0,1
+120,Beth Camacho,East Elizabethmouth,Female,50,67,57,1,1,0,0,0,0,0,0
+121,Dr. Jessica Santana,Stephensside,Male,27,67,56,1,0,0,0,0,0,0,0
+122,Olivia Travis,North Alyssa,Female,38,67,40,1,0,0,0,0,0,0,0
+123,Angela Cole,East Leslie,Female,40,69,58,1,0,0,0,0,0,0,0
+124,Monica Wood,South Kimberlyfurt,Male,39,69,91,1,0,0,0,0,0,0,0
+125,Joseph Lamb DVM,Hillmouth,Female,23,70,29,1,0,0,0,0,0,0,0
+126,Crystal Rios,Port Elizabethton,Female,31,70,77,0,1,0,1,0,1,0,1
+127,Julie James,Melissaville,Male,43,71,35,1,0,0,1,1,1,0,1
+128,Anita Howell,Elliottland,Male,40,71,95,1,1,0,0,0,0,0,0
+129,Sheryl Hernandez,West Rebecca,Male,59,71,11,1,0,0,0,0,0,0,0
+130,Cheryl Hoffman,Port Elaineberg,Male,38,71,75,1,0,0,0,0,0,0,0
+131,Valerie Burton MD,Jacksonstad,Male,47,71,9,1,0,0,0,0,0,0,0
+132,Frank Davis,Stacyburgh,Male,39,71,75,1,0,0,0,0,0,0,0
+133,Michelle Michael,West Alan,Female,25,72,34,1,0,0,1,0,1,0,1
+134,Michael Wilson,Waltonfort,Female,31,72,71,1,0,0,1,0,0,0,0
+135,Cynthia Bell,Garrettfurt,Male,20,73,5,1,0,0,0,0,0,0,0
+136,Sean Henry,Lake Omar,Female,29,73,88,1,0,0,0,0,0,0,0
+137,Michael Brown,Nelsonland,Female,44,73,7,1,0,0,0,0,0,0,0
+138,Christopher Johnson,Pettyburgh,Male,32,73,73,1,0,0,0,0,0,0,0
+139,Rebecca Bass,Wardhaven,Male,19,74,10,0,1,0,0,0,0,0,2
+140,Deborah Hernandez,South Brandi,Female,35,74,72,1,0,0,0,0,0,0,0
+141,Juan Pugh,Hodgeview,Female,57,75,5,0,1,0,1,1,0,0,2
+142,Sergio Douglas,New Denise,Male,32,75,93,1,0,0,0,0,0,0,0
+143,Paula Wilson,New Nicholasfurt,Female,28,76,40,1,0,0,0,0,0,0,0
+144,Brandon Lynch,Murraychester,Female,32,76,87,1,0,0,0,0,0,0,0
+145,Lacey Howard,New Leonardberg,Male,25,77,12,1,0,0,0,0,0,0,0
+146,Jesse Wilson,Lake Daleburgh,Male,28,77,97,0,1,0,1,0,1,0,1
+147,Kristina Hamilton,South Patriciabury,Male,48,77,36,1,0,0,1,1,1,0,1
+148,Jason Young,South Garystad,Female,32,77,74,1,1,0,0,0,0,0,0
+149,Benjamin Leonard Jr.,New Pamelabury,Female,34,78,22,1,0,0,0,0,0,0,0
+150,Andrea Sparks,Bensonbury,Male,34,78,90,1,0,0,0,0,0,0,0
+151,Timothy Pham,North Michaelton,Male,43,78,17,1,0,0,0,0,0,0,0
+152,Ronnie Mason,Lake Tabitha,Male,39,78,88,1,0,0,0,0,0,0,0
+153,Kerry Hanson,Kellymouth,Female,44,78,20,1,0,0,1,0,1,0,1
+154,Kyle Owens,Brownland,Female,38,78,76,1,0,0,1,0,0,0,0
+155,Barbara Rivera,Leonardhaven,Female,47,78,16,1,0,0,0,0,0,0,0
+156,Sherry Ashley,Deborahport,Female,27,78,89,1,0,0,0,0,0,0,0
+157,Ricardo Johnson,Rachelchester,Male,37,78,1,1,0,0,0,0,0,0,0
+158,Linda Gibson,West Christy,Female,30,78,78,1,0,0,0,0,0,0,0
+159,Carol Jones,Reedland,Male,34,78,1,0,1,0,0,0,0,0,2
+160,Andrew Levy,Jenniferside,Female,30,78,73,1,0,0,0,0,0,0,0
+161,Lori Anderson DVM,New Marie,Female,56,79,35,0,1,0,1,1,0,0,2
+162,Karen Mcdaniel,New Eugene,Female,29,79,83,1,0,0,0,0,0,0,0
+163,Ashley Murray,Tylerville,Male,19,81,5,1,0,0,0,0,0,0,0
+164,Becky Ramos,South Ericborough,Female,31,81,93,1,0,0,0,0,0,0,0
+165,Stephanie Odonnell,New Johnny,Male,50,85,26,0,1,0,0,0,0,0,2
+166,Brenda Guzman,South Justin,Female,36,85,75,1,0,0,0,0,0,0,0
+167,Mr. Robert Fisher,Justinborough,Male,42,86,20,1,1,0,0,0,0,0,0
+168,Nicole Sullivan,Port Jo,Female,33,86,95,1,0,0,0,0,0,0,0
+169,Kevin Armstrong,North Catherine,Female,36,87,27,1,0,0,0,0,0,0,0
+170,Maria Smith,New Teresa,Male,32,87,63,1,0,0,0,0,0,0,0
+171,Michelle Hammond,Port Danielleborough,Male,40,87,13,1,0,0,0,0,0,0,0
+172,Katherine Douglas MD,North George,Male,28,87,75,1,1,0,1,0,1,0,1
+173,Ronald Clark,Zimmermanhaven,Male,36,87,10,1,0,0,0,0,0,0,0
+174,Charles Smith,South Joshuastad,Male,36,87,92,1,0,0,0,0,0,0,0
+175,Brenda Preston,Stacyland,Female,52,88,13,0,1,0,0,0,0,0,2
+176,Deborah Powers,Jacobsontown,Female,30,88,86,1,0,0,0,0,0,0,0
+177,Jay Gonzalez,North Garytown,Male,58,88,15,1,0,0,0,0,0,0,0
+178,Raymond Foster,Wardfort,Male,27,88,69,0,1,0,0,0,0,0,2
+179,Donald Hayes,Jenniferport,Male,59,93,14,1,0,0,0,0,0,0,0
+180,Michele Morales,South Colin,Male,35,93,90,1,1,0,0,0,0,0,0
+181,Amber Stevens,Port Jonathanland,Female,37,97,32,1,0,0,0,0,0,0,0
+182,Stephanie Wood,East Gregory,Female,32,97,86,1,0,0,0,0,0,0,0
+183,Alexander Young,Greenemouth,Male,46,98,15,1,0,0,0,0,0,0,0
+184,Jack Cooper,Matthewmouth,Female,29,98,88,1,0,0,0,0,0,0,0
+185,Alexandra Bishop,Lake Stephaniemouth,Female,41,99,39,1,1,0,1,0,1,0,1
+186,Michael Moran,Ortizton,Male,30,99,97,1,0,0,0,0,0,0,0
+187,Mariah Rivera,South Kennethbury,Female,54,101,24,1,0,0,0,0,0,0,0
+188,Donald Mullins,East Janetberg,Male,28,101,68,0,1,0,0,0,0,0,2
+189,Andrew Kennedy,Kingshire,Female,41,103,17,1,0,0,0,0,0,0,0
+190,Scott Thompson,South Johnton,Female,36,103,85,1,0,0,0,0,0,0,0
+191,Kristen Cole,Khanberg,Female,34,103,23,0,1,0,0,0,0,0,2
+192,Jasmine Martinez,Lonnieton,Female,32,103,69,1,0,0,0,0,0,0,0
+193,Dr. Mario Clark,Port Julie,Male,33,113,8,1,1,0,0,0,0,0,0
+194,Mitchell Phillips,East Michael,Female,38,113,91,1,0,0,0,0,0,0,0
+195,Michael Henry,Cherryborough,Female,47,120,16,1,0,0,0,0,0,0,0
+196,Stephen Parker,Morrisland,Female,35,120,79,1,0,0,0,0,0,0,0
+197,William Scott,Timothystad,Female,45,126,28,1,0,0,0,0,0,0,0
+198,Dr. Lauren Garcia,Tiffanyside,Male,32,126,74,1,1,0,1,0,1,0,1
+199,Mary Morgan,Lake Alexander,Male,32,137,18,1,0,0,0,0,0,0,0
+200,Marvin Andrews,Williamsview,Male,30,137,83,1,0,0,0,0,0,0,0
